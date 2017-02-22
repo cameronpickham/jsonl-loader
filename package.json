@@ -1,0 +1,16 @@
+{
+  "name": "jsonl-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for newline-separated JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronpickham/jsonl-loader.git"
+  },
+  "author": "Cameron Pickham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronpickham/jsonl-loader/issues"
+  },
+  "homepage": "https://github.com/cameronpickham/jsonl-loader#readme"
+}
